@@ -1,0 +1,63 @@
+[
+  {
+      "company": "Netflix",
+      "symbol": "NFLX"
+  },
+  {
+      "company": "PayPal",
+      "symbol": "PYPL"
+  },
+  {
+      "company": "Zoom Video Communications",
+      "symbol": "ZM"
+  },
+  {
+      "company": "T-Mobile US",
+      "symbol": "TMUS"
+  },
+  {
+      "company": "Qualcomm",
+      "symbol": "QCOM"
+  },
+  {
+    "company": "Tesla Inc.",
+    "symbol": "TSLA"
+  },
+  {
+    "company": "Microsoft Corporation",
+    "symbol": "MSFT"
+  },
+  {
+    "company": "Facebook, Inc.",
+    "symbol": "FB"
+  },
+  {
+    "company": "Alphabet Inc.",
+    "symbol": "GOOGL"
+  },
+  {
+    "company": "Visa Inc.",
+    "symbol": "V"
+  },
+  {
+    "company": "Mastercard Incorporated",
+    "symbol": "MA"
+  },
+  {
+    "company": "JPMorgan Chase & Co.",
+    "symbol": "JPM"
+  },
+  {
+    "company": "Goldman Sachs Group Inc.",
+    "symbol": "GS"
+  },
+  {
+    "company": "Walt Disney Co (The)",
+    "symbol": "DIS"
+  },
+  {
+    "company": "Procter & Gamble Co",
+    "symbol": "PG"
+  }
+  
+]
